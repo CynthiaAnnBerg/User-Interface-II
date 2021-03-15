@@ -1,3 +1,10 @@
+/*Tablet*/
+@media(max-width:800px){
+}
+
+/*Phone*/
+@media(max-width:500px){
+}
 /* Add CSS styling here */
 *{
     box-sizing: border-box;
